@@ -30,3 +30,20 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### REACT ###
+
+### Dependencies ###
+/node_modules
+/.pnp
+.pnp.js
+package-lock.json
+
+### Testing ###
+/coverage
+
+### Production ###
+/build
+
+### Misc ###
+npm-debug.log*
